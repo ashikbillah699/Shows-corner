@@ -1,0 +1,63 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #3E3E3E;
+}
+
+/* menu part css */
+#header_part {
+    background-color: #FFF9F4;
+    padding-bottom: 129px;
+}
+
+.logo_img {
+    width: 290px;
+    height: 40px;
+}
+
+.main_menu ul li a {
+    font-size: 16px;
+    font-weight: 500px;
+    color: #3E3E3E;
+}
+
+/* banner part css */
+
+.banner-img {
+    width: 407px;
+    height: 407px;
+}
+
+.banner_text {
+    margin-left: 60px;
+}
+
+.banner_text h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.banner_text h1 .react {
+    color: #FA804C;
+}
+
+.banner_text h1 .run {
+    color: #363958;
+}
+
+
+/* casual part css */
+.casual_header h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #363958;
+    margin: 50px 0 30px;
+}
+
+.card_hader {
+    color: #363958;
+}
