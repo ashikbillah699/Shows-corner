@@ -61,3 +61,13 @@ p {
 .card_hader {
     color: #363958;
 }
+
+/* contact_part css */
+#contact_part {
+    padding-top: 50px;
+}
+
+.perfect_fit img {
+    width: 78px;
+    height: 82px;
+}
